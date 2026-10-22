@@ -2,5 +2,7 @@
   "name": "auraplus — Statement Socks for the Fit",
   "description": "Modern Gen-Z socks fashion brand. Premium streetwear socks made for people who don't dress boring.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
